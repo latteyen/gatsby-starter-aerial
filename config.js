@@ -10,8 +10,8 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: '',
-  authorHeading: '',
+  authorName: 'The Moment Hotel Chiang Mai',
+  authorHeading: 'The Moment Hotel Chiang Mai',
   authorSocialLinks: [
     
     {
