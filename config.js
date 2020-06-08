@@ -22,7 +22,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'info@themomentchiangmai.com',
+      url: 'mailto:info@themomentchiangmai.com',
     },
   ],
 };
