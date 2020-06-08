@@ -17,12 +17,12 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: '',
+      url: 'https://www.facebook.com/themomentchiangmai',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: '',
+      url: 'info@themomentchiangmai.com',
     },
   ],
 };
